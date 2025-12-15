@@ -53,7 +53,7 @@ This project was built entirely from scratch, including recording all instrument
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/keyboard-maestro.git
+   git clone https://github.com/vkShaun/keyboard-maestro.git
    cd keyboard-maestro
 ```
 
